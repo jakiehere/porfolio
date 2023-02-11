@@ -13,7 +13,7 @@ let info = {
   links: {
     linkedin: "https://www.linkedin.com/in/sum-panha/",
     github: "https://github.com/n-jakie",
-    resume: "https://drive.google.com/file/d/1QD1jDAFUVbUL2jMrOYI1uTF0dGZqI_vl/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1BSTxToX6m0opLNcSu3D6_1_M4OOfBYh9/view?usp=sharing",
   },
   education: [
     {
@@ -43,25 +43,25 @@ let info = {
     {
       name: "Z1 Flexible Solution",
       place: "Toul Kouk, Phnom Penh",
-      date: "Jul, 2022 - Dec, 2022",
+      date: "Apr, 2022 - Dec, 2022",
       position: "Junior Front-end developer",
       description:
         "",
       skills: [ 
                 "HTML5", "CSS3", "JavaSript", 
                 "TypeSript", "React Js",
-                "React-Redux", "Next Js", "TailwindCss",
+                "Next Js", "Redux", "TailwindCss",
                 "SEO"
               ]
     },
     {
       name: "Z1 Flexible Solution",
       place: "Toul Kouk, Phnom Penh",
-      date: "Dec 2022 - Now",
+      date: "Dec, 2022 - Now",
       position: "Backend Developer",
       description:
         "",
-      skills: ["PHP", "Laravel", "Backpack", "AJAX", "jQuery", "VueJs", "API"]
+      skills: ["PHP", "Laravel", "Backpack", "AJAX", "jQuery", "VueJs"]
     },
   ],
   skills: [
@@ -117,13 +117,13 @@ let info = {
         },
       ],
       technologies: ["Laravel", "Backpack", "VueJs", "jQuery", "PostgresQL"],
-      category: "Web App",
-      date: "Dec, 2022 - Now",
+      category: "Web Application",
+      date: "Jan, 2023 - Now",
       github:
         "https://github.com/n-jakie",
       visit: "https://github.com/n-jakie",
       description:
-        "ZPoin web application with new feature: upload, filters, transfer and reimburse etc. ZPoin has become a fast growing that is a useful app under Z1 Super App that use for all interal users under Zellenium Group and external user now it have 10000+ users. And now it have maketplace to pay with some company that coperated with such as Park Cafe and Pizza Hut."
+        "ZPoin web application with new feature: upload, filters, transfer and reimburse etc. ZPoin has become a fast growing that is a useful app under Z1 Super App that use for all interal users under Zellenium Group and external user now it have 5000+ users. And now it have maketplace to pay with some company that coperated with such as Park Cafe and Pizza Hut."
     },
     {
       name: "DipMarts",
@@ -132,9 +132,9 @@ let info = {
           img: require("./src/assets/portfolio/dipmart/dipmart1.png")
         },
       ],
-      technologies: ["ReactJs", "NextJs", "Typescript", "Redux", "TailwindCss", "Axios"],
-      category: "E-commerce app",
-      date: "Sep, 2022",
+      technologies: ["React", "Next", "Typescript", "Redux", "TailwindCss", "Axios"],
+      category: "E-commerce Website",
+      date: "Aug, 2022",
       github: "https://github.com/n-jakie",
       visit: "https://github.com/n-jakie",
       description:
@@ -159,9 +159,9 @@ let info = {
           img: require("./src/assets/portfolio/z1news/z1news5.png")
         },
       ],
-      technologies: ["NextJs", "Typescript", "TailwindCss", "Wordpress", "graphql"],
-      category: "Website",
-      date: "Nov - 2022",
+      technologies: ["React", "Next", "Typescript", "TailwindCss", "Wordpress", "graphql"],
+      category: "CMS Website",
+      date: "Nov, 2022",
       github:
         "https://github.com/n-jakie",
       visit: "https://github.com/n-jakie",

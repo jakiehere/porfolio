@@ -1,12 +1,14 @@
-import Vue from 'vue'
-import App from './App.vue'
+import 'aos/dist/aos.css';
 
-import AOS from 'aos'
-import 'aos/dist/aos.css'
-import VueParallaxJs from 'vue-parallax-js'
-import VueScrollTo from 'vue-scrollto'
-import VueRouter from 'vue-router'
-import VTooltip from 'v-tooltip'
+import Vue from 'vue';
+
+import AOS from 'aos';
+import VTooltip from 'v-tooltip';
+import VueParallaxJs from 'vue-parallax-js';
+import VueRouter from 'vue-router';
+import VueScrollTo from 'vue-scrollto';
+
+import App from './App.vue';
 
 var VueCookie = require('vue-cookie');
 
