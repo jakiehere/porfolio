@@ -112,10 +112,10 @@
 </template>
 
 <script>
-import emailjs from 'emailjs-com';
+import config from "../../config";
+import emailjs from "emailjs-com";
 
-import config from '../../config';
-import Snackbar from './helpers/Snackbar';
+import Snackbar from "./helpers/Snackbar";
 
 export default {
   name: "Contact",
@@ -155,7 +155,7 @@ export default {
           user_email: this.email,
           from_name: this.name,
           message_html: this.text,
-          to_name: "Panha Sum",
+          to_name: "Mahy Mohab",
         };
 
         emailjs

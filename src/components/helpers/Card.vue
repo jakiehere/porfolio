@@ -101,13 +101,13 @@ img {
 }
 
 .bheight {
-  height: 70px;
+  height: 65px;
   overflow: auto;
 }
 
 .pheight {
-  height: 115px;
-  max-height: 135px;
+  height: 110px;
+  max-height: 130px;
   overflow: auto;
   text-align: justify;
 }
@@ -127,7 +127,7 @@ div.img-div {
   border: none;
   box-shadow: 1px 1px 12px rgb(233, 233, 233);
   transition: all 0.5s;
-  height: 470px;
+  height: 460px;
 }
 
 .pcard:hover {
@@ -142,7 +142,7 @@ div.img-div {
   background-color: #30363a !important;
   /* box-shadow: 1px 1px 12px rgb(53, 53, 53); */
   transition: all 0.5s;
-  height: 470px;
+  height: 460px;
 }
 
 .pcard-dark:hover {
